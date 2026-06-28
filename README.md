@@ -103,5 +103,5 @@ cd dashboard && npm install && npm start
 ## Author
 
 **Raj (Rituraj)** — AI/ML Engineer · CSE Undergrad  
-[![X](https://img.shields.io/badge/X-@Rajritu2071-000000?style=flat&logo=x&logoColor=white)](https://x.com/Rajritu2071)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajritu2071-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajritu2071)
+[![X](https://img.shields.io/badge/X-@Rajritu2071-000000?style=flat&logo=x&logoColor=white)](https://x.com/Rajritu2071)
